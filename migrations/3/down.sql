@@ -1,0 +1,4 @@
+
+DROP INDEX idx_material_student_access_student;
+DROP INDEX idx_material_student_access_material_id;
+DROP TABLE material_student_access;

@@ -1,0 +1,70 @@
+{
+  "name": "NutriTrack Pro",
+  "short_name": "NutriTrack",
+  "description": "Sistema completo de acompanhamento nutricional e evolução corporal",
+  "theme_color": "#6366f1",
+  "background_color": "#f8fafc",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "https://mocha-cdn.com/01992a5f-6030-712d-8eb0-6e263a681ab5/Captura-de-tela-2025-09-08-151739.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://mocha-cdn.com/01992a5f-6030-712d-8eb0-6e263a681ab5/Captura-de-tela-2025-09-08-151739.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://mocha-cdn.com/01992a5f-6030-712d-8eb0-6e263a681ab5/Captura-de-tela-2025-09-08-151739.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://mocha-cdn.com/01992a5f-6030-712d-8eb0-6e263a681ab5/Captura-de-tela-2025-09-08-151739.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://mocha-cdn.com/01992a5f-6030-712d-8eb0-6e263a681ab5/Captura-de-tela-2025-09-08-151739.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://mocha-cdn.com/01992a5f-6030-712d-8eb0-6e263a681ab5/Captura-de-tela-2025-09-08-151739.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://mocha-cdn.com/01992a5f-6030-712d-8eb0-6e263a681ab5/Captura-de-tela-2025-09-08-151739.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://mocha-cdn.com/01992a5f-6030-712d-8eb0-6e263a681ab5/Captura-de-tela-2025-09-08-151739.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["health", "fitness", "medical", "lifestyle"],
+  "screenshots": [
+    {
+      "src": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=540&h=720&fit=crop&crop=center",
+      "sizes": "540x720",
+      "type": "image/png",
+      "label": "Dashboard principal do NutriTrack Pro"
+    }
+  ]
+}
